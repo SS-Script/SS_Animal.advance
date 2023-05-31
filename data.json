@@ -2,7 +2,15 @@
     "data": [
         {
             "time": "06152023",
-            "discord": "#3349",
+            "discord": "#SS",
+            "resource": "SS_Animal.advance",
+            "version": "1.0.0",
+            "ip": "119.76.46.184"
+        },
+
+        {
+            "time": "06302023",
+            "discord": "#0433",
             "resource": "SS_Animal.advance",
             "version": "1.0.0",
             "ip": "119.76.46.184"
