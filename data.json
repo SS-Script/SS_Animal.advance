@@ -1,5 +1,14 @@
 {
     "data": [
+
+        {
+            "time": "10202023",
+            "discord": "XD-Server",
+            "resource": "SS_Animal.advance",
+            "version": "1.0.0",
+            "ip": "103.22.182.102"
+        },
+
         {
             "time": "06222023",
             "discord": "#SS",
